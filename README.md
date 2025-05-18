@@ -1,0 +1,14 @@
+# missi-user 15 AQ3A.240801.002 OS2.0.101.0.VOZINXM release-keys
+- manufacturer: xiaomi
+- platform: pineapple
+- codename: uke
+- flavor: missi-user
+- release: 15
+- id: AQ3A.240801.002
+- incremental: OS2.0.101.0.VOZINXM
+- tags: release-keys
+- fingerprint: Xiaomi/uke_global/uke:14/UKQ1.240624.001/OS2.0.101.0.VOZINXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-15-AQ3A.240801.002-OS2.0.101.0.VOZINXM-release-keys
+- repo: xiaomi_uke_dump
